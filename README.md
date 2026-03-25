@@ -79,7 +79,7 @@ Running from a local `file://` path will cause GPS errors in Chrome — this is 
 3. Go to **Settings → Pages**, set source to **main / root**, and click Save
 4. After ~60 seconds your app will be live at:
    ```
-   https://yourusername.github.io/your-repo-name/shift_location_tracker_v6.html
+   https://yourusername.github.io/your-repo-name/shift_location_tracker.html
    ```
 5. Bookmark this URL — GPS permission will persist across sessions
 
