@@ -1,6 +1,6 @@
 # StoreCheck
 
-A lightweight Progressive Web App (PWA) for retail district managers to track store visits. GPS auto-detects when you arrive at a location and logs the visit. The home screen shows every location sorted by how long it's been since your last visit so you always know where you're overdue.
+A lightweight Progressive Web App (PWA) for district leads/managers to track store visits. GPS auto-detects when you arrive at a location and logs the visit. The home screen shows every location sorted by how long it's been since your last visit so you always know where you're overdue.
 
 ---
 
