@@ -164,5 +164,3 @@ To change the location list, open `storecheck.html` in a text editor and update 
 | Firefox | ✅ | ❌ | Not recommended |
 
 ---
-
-*Built with Claude*
